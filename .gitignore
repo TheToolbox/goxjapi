@@ -4,3 +4,4 @@ manifest.mf
 build.xml
 .DS_Store
 nbproject/
+/bin
